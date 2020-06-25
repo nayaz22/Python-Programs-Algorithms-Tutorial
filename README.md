@@ -3,6 +3,6 @@ Python Tutorial is for Beginners, Here you can Find various Data Science Algorit
 
 
 * 1. Create Your Github Account
-  2. Do not Forget to Follow my Github Account @ Nayaz@Jamal Mohamed College
+  2. Do not Forget to Follow my Github Account at Nayaz@Jamal Mohamed College
   3. Let me know in the Comment Session if you have any doubt in the following Programs and for the upcoming Programs and FeedBack.
   4. Official Website to Download Python workspace link: https://www.python.org/downloads/windows/
