@@ -1,0 +1,18 @@
+list=[5,3,8,6,7,2]
+
+def selection(list):
+    for i in range(0,len(list)-1):
+        for j in range(i,6):
+            min=i
+            if list[j]<list[min]:
+                temp=list[j]
+                list[j]=list[min]
+                list[min]=temp
+
+
+
+selection(list)
+print(list)
+
+#Output:
+[2, 3, 5, 6, 7, 8]
